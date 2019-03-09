@@ -116,3 +116,8 @@ To download source from internet:
 --------------------------------
 
 All backup images are on a USB hanging on the cork board above the printer in the lab. Please replace the USB after you use it.
+
+### v1.0 - 3-9-19rovpi.img
+
+        * Enabled I2C bus 
+        * Jesuit passwords added
