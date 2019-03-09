@@ -24,8 +24,9 @@
 
     Passed 107 Test List
 
-[.zip](zip_url)  [.tar.gz](tar_url)
-
 To get from command line:
     git checkout v2.19
     git pull
+
+To download source from internet:
+    [.zip](zip_url)  [.tar.gz](tar_url)
