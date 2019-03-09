@@ -110,3 +110,9 @@ To download source from internet:
 
 To download source from internet:
 [.zip](https://github.com/JHSRobo/ROSbasic/archive/v1.1.0.zip)  [.tar.gz](https://github.com/JHSRobo/ROSbasic/archive/v1.1.0.tar.gz)
+
+# Raspberry Pi Images
+
+--------------------------------
+
+All backup images are on a USB hanging on the cork board above the printer in the lab. Please replace the USB after you use it.
