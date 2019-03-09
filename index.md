@@ -24,10 +24,10 @@
 
     Passed 107 Test List
 
-To get from command line:
+### To get from command line:
 
     git checkout v2.19
     git pull
 
-To download source from internet:
+### To download source from internet:
 [.zip](zip_url)  [.tar.gz](tar_url)
