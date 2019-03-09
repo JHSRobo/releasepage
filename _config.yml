@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: JHSRobo Release Page
 description: A page to track and display releases for ROSBasic repository.
 show_downloads: true
+github:
+  zip_url: https://github.com/JHSRobo/ROSbasic/archive/v2.18.zip
+  tar_url: https://github.com/JHSRobo/ROSbasic/archive/v2.18.tar.gz
