@@ -33,15 +33,15 @@
       <form id="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwIhGrA5CPLILDQiyD5zDMTA68IOB27DRBOF2n5yIhAAVJC0tw/exec">
        <div class="form-group">
          <label for="nameInput">Name</label>
-         <input type="text" class="form-control" id="nameInput" placeholder="Name">
+         <input type="text" name="name" class="form-control" id="nameInput" placeholder="Name">
        </div>
        <div class="form-group">
          <label for="featureInput">Email address</label>
-         <input type="text" class="form-control" id="featureInput" aria-describedby="featureHelp" placeholder="Feature">
+         <input type="text" name="feature" class="form-control" id="featureInput" aria-describedby="featureHelp" placeholder="Feature">
          <small id="featureHelp" class="form-text text-muted">Feature you would like to add and where it is in GitHub.</small>
        </div><div class="form-group">
          <label for="releaseInput">Release</label>
-         <input type="text" class="form-control" id="releaseInput" aria-describedby="releaseHelp" placeholder="Release?">
+         <input type="text" name="release" class="form-control" id="releaseInput" aria-describedby="releaseHelp" placeholder="Release?">
          <small id="releaseHelp" class="form-text text-muted">Do you want this added and pushed ass soon as possible? (Yes or No)</small>
        </div>
        <button type="submit" style="background-color: #159957;" class="btn btn-primary">Submit</button>
