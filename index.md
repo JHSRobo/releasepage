@@ -2,7 +2,32 @@
 
 -----------------------------
 
-### Latest Release - v2.19
+### Latest Release - v2.19.1
+    Software Changes
+    * DRQ Bug Fixes
+    * BNO055 Bug Fixes
+    * Added New Line Following Submodule
+   
+    Hardware Changes
+    * None
+    
+    Task Changes
+    * None
+    
+    Tests
+    * Passed Tests on updated parts of code (DRQ)
+    
+    Passed 107 Test List
+
+To get from command line:
+
+    git checkout v2.19.1
+    git pull
+
+To download source from internet:
+[.zip](zip_url)  [.tar.gz](tar_url)
+
+### v2.19
     Software Changes
     * Minor bug fixes
     * Changed Odom from bag of words to Optical Flow
@@ -30,7 +55,7 @@ To get from command line:
     git pull
 
 To download source from internet:
-[.zip](zip_url)  [.tar.gz](tar_url)
+[.zip](https://github.com/JHSRobo/ROSbasic/archive/v2.19.zip)  [.tar.gz](https://github.com/JHSRobo/ROSbasic/archive/v2.19.tar.gz)
 
 ### v2.18
     Software Changes
