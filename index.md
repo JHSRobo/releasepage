@@ -140,7 +140,7 @@ To download source from internet:
 
 --------------------------------
 
-All backup images are on a USB hanging on the cork board above the printer in the lab. Please replace the USB after you use it.
+All backup images are on a USB hanging on the cork board above the printer in the lab. Please replace the USB after you use it. There are also two pis, one backup and one advanced development, in a bag under the USBs. Only use to quickly switch out the test bench pi.
 
 ### v1.0 - 3-9-19rovpi.iso
 
