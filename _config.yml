@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: JHSRobo Release Page
 description: A page to track and display releases for ROSBasic repository.
 show_downloads: true
