@@ -2,7 +2,31 @@
 
 -----------------------------
 
-### Latest Release - v2.19.1
+### Latest Release - v2.19.2
+    Software Changes
+    * Fixed Bottomside Launch
+    * Changed GPIO for Camera, Magnet, and Trout Grout
+   
+    Hardware Changes
+    * None
+    
+    Task Changes
+    * None
+    
+    Tests
+    * Passed Tests on updated parts of code (GPIOS)
+    
+    Passed 107 Test List
+    
+To get from command line:
+
+    git checkout v2.19.2
+    git pull
+
+To download source from internet:
+[.zip](zip_url)  [.tar.gz](tar_url)
+
+### v2.19.1
     Software Changes
     * DRQ Bug Fixes
     * BNO055 Bug Fixes
@@ -25,7 +49,7 @@ To get from command line:
     git pull
 
 To download source from internet:
-[.zip](zip_url)  [.tar.gz](tar_url)
+[.zip](https://github.com/JHSRobo/ROSbasic/archive/v2.19.1.zip)  [.tar.gz](https://github.com/JHSRobo/ROSbasic/archive/v2.19.1.tar.gz)
 
 ### v2.19
     Software Changes
