@@ -171,6 +171,11 @@ All backup images are on a USB hanging on the cork board above the printer in th
     Enabled I2C bus
     Jesuit passwords added
     ROS downloaded and installed
+    
+ ### v1.0(32gb) - 3-29-19rovpi.iso
+
+    v2.19.1 of Software
+    32 gb Version (Full Filesystem)
 
 # Feature Addition Form
 
