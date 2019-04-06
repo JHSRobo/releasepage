@@ -2,7 +2,18 @@
 
 -----------------------------
 
-### Latest Release - v2.19.2
+### Latest Release - v2.19.3
+    Tested on ROV and working. Critical to camera switching.
+    
+To get from command line:
+
+    git checkout v2.19.3
+    git pull
+
+To download source from internet:
+[.zip](zip_url)  [.tar.gz](tar_url)
+
+### v2.19.2
     Software Changes
     * Fixed Bottomside Launch
     * Changed GPIO for Camera, Magnet, and Trout Grout
@@ -24,7 +35,7 @@ To get from command line:
     git pull
 
 To download source from internet:
-[.zip](zip_url)  [.tar.gz](tar_url)
+[.zip](https://github.com/JHSRobo/ROSbasic/archive/v2.19.2.zip)  [.tar.gz](https://github.com/JHSRobo/ROSbasic/archive/v2.19.2.tar.gz)
 
 ### v2.19.1
     Software Changes
