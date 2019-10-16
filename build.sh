@@ -2,6 +2,8 @@
 
 cd /home/jhsrobo/Github
 
+rm -rf ./ROVMIND
+
 git clone https://github.com/JHSRobo/ROVMIND.git
 
 cd /home/jhsrobo/Github/ROVMIND/ros_workspace/src/
