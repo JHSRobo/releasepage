@@ -10,4 +10,7 @@ cd /home/jhsrobo/Github/ROVMIND/ros_workspace/src/
 git clone https://github.com/JHSRobo/copilot-page.git
 
 cd /home/jhsrobo/Github/ROVMIND/ros_workspace
+
+rosdep install --from-paths src --ignore-src -r -y
+
 catkin_make
