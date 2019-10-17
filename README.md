@@ -1,5 +1,5 @@
 # releasepage
 
-### Release page for ROSBasic Repository containing all releases and tags.
+### Release page for ROVMIND Repository containing all releases and tags.
 
 
