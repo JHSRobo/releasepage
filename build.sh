@@ -8,7 +8,6 @@ git clone --branch V0.0 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V0.0 https://github.com/JHSRobo/RPICamera.git
 
 cd /home/jhsrobo/Github/ROVMIND/ros_workspace/src/
-rm -rf bmp280 bno055 copilot-page copilot_interface doc hardware_interface keyboard-teleop ms5837 raspicam_node realsense2_description rov_control rov_control_interface rov_description sen10972 sensor_readout sht31 tcu_board_msgs tcu_touchscreen vector_drive
 git clone --branch V0.0 https://github.com/JHSRobo/bmp280.git
 git clone --branch V0.0 https://github.com/JHSRobo/bno055.git
 git clone --branch V2.0 https://github.com/JHSRobo/copilot-page.git
