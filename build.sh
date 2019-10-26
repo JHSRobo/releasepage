@@ -4,7 +4,7 @@ cd /home/jhsrobo/Github
 
 rm -rf ./ROVMIND
 
-git clone --branch V0.0 https://github.com/JHSRobo/ROVMIND.git
+git clone --branch V0.1 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V0.0 https://github.com/JHSRobo/RPICamera.git
 
 cd /home/jhsrobo/Github/ROVMIND/ros_workspace/src/
