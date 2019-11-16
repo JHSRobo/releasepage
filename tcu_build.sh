@@ -3,6 +3,7 @@
 cd ~/Github
 
 rm -rf ./ROVMIND
+rm -rf ./RPICamera
 
 git clone --branch V0.3 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V0.0 https://github.com/JHSRobo/RPICamera.git
