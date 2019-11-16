@@ -58,7 +58,7 @@ Manual Versioning:
     
 ### Genesis
 
-   Move all code to ROVMIND and fix bugs that occured.
+    Move all code to ROVMIND and fix bugs that occured.
 
 To get from command line:
 
