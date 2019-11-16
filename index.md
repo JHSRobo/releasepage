@@ -20,6 +20,7 @@ Manual Versioning:
     V0.0 https://github.com/JHSRobo/bmp280.git
     V0.0 https://github.com/JHSRobo/bno055.git
     V2.0 https://github.com/JHSRobo/copilot-page.git
+    V0.0 https://github.com/JHSRobo/copilot_interface.git
     V0.0 https://github.com/JHSRobo/doc.git
     V0.0 https://github.com/JHSRobo/hardware_interface.git
     V0.0 https://github.com/JHSRobo/ms5837.git
