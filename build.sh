@@ -1,13 +1,13 @@
 #!/bin/bash
 
-cd /home/jhsrobo/Github
+cd ~/Github
 
 rm -rf ./ROVMIND
 
 git clone --branch V0.1 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V0.0 https://github.com/JHSRobo/RPICamera.git
 
-cd /home/jhsrobo/Github/ROVMIND/ros_workspace/src/
+cd ~/Github/ROVMIND/ros_workspace/src/
 git clone --branch V0.0 https://github.com/JHSRobo/bmp280.git
 git clone --branch V0.0 https://github.com/JHSRobo/bno055.git
 git clone --branch V2.0 https://github.com/JHSRobo/copilot-page.git
@@ -28,7 +28,7 @@ git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_touchscreen.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
 
-cd /home/jhsrobo/Github/ROVMIND/ros_workspace
+cd ~/Github/ROVMIND/ros_workspace
 
 rosdep install --from-paths src --ignore-src -r -y
 
