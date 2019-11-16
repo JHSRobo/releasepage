@@ -4,7 +4,7 @@
 
 ### Latest Release - Genesis~2.1
 
-  RPICamera node update.
+    RPICamera node update.
 
 To get from command line:
 
@@ -32,11 +32,11 @@ Manual Versioning:
 
 ### Genesis~2
 
-   Important Bug Fixes and Add RPICamera node.
+    Important Bug Fixes and Add RPICamera node.
 
 To get from command line:
 
-   Manual Versioning Required.
+    Manual Versioning Required.
     
 Manual Versioning:
 
