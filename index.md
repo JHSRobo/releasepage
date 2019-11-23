@@ -16,7 +16,7 @@ To get from command line:
 Manual Versioning:
 
     V0.4 https://github.com/JHSRobo/ROVMIND.git
-    V0.1 https://github.com/JHSRobo/RPICamera.git
+    V0.2 https://github.com/JHSRobo/RPICamera.git
     V0.0 https://github.com/JHSRobo/bmp280.git
     V0.0 https://github.com/JHSRobo/bno055.git
     V2.0 https://github.com/JHSRobo/copilot-page.git
