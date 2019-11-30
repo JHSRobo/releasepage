@@ -1,0 +1,8 @@
+prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/devel
+
+Name: bno055
+Description: Description of bno055
+Version: 0.0.0
+Cflags: -I/home/jhsrobo/Github/ROVMIND/ros_workspace/devel/include
+Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/devel/lib 
+Requires: 

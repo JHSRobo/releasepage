@@ -1,0 +1,8 @@
+prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/install
+
+Name: copilot_page
+Description: Description of copilot_page
+Version: 1.0.1
+Cflags: 
+Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/install/lib 
+Requires: 
