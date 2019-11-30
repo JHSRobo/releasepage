@@ -2,9 +2,9 @@
 
 -----------------------------
 
-### Latest Release - Genesis~2.3
+### Latest Release - Genesis~2.4
 
-    Important Camera and Permisions Bug Fix.
+    Important Sensors and Copilot page and depth hold.
 
 To get from command line:
 
@@ -12,6 +12,33 @@ To get from command line:
     cd releasepage
     chmod +x (build.sh on Raspberry Pis, tcu_build.sh on TCU)
     ./(build.sh on Raspberry Pis, tcu_build.sh on TCU)
+    
+Manual Versioning:
+
+    V0.5 https://github.com/JHSRobo/ROVMIND.git
+    V0.0 https://github.com/JHSRobo/depth_hold.git
+    V0.3 https://github.com/JHSRobo/RPICamera.git
+    V0.1 https://github.com/JHSRobo/bmp280.git
+    V0.2 https://github.com/JHSRobo/bno055.git
+    V1.0 https://github.com/JHSRobo/copilot_page.git
+    V0.0 https://github.com/JHSRobo/copilot_interface.git
+    V0.0 https://github.com/JHSRobo/doc.git
+    V0.1 https://github.com/JHSRobo/hardware_interface.git
+    V0.1 https://github.com/JHSRobo/ms5837.git
+    V0.0 https://github.com/JHSRobo/rov_control.git
+    V0.1 https://github.com/JHSRobo/rov_control_interface.git
+    V0.1 https://github.com/JHSRobo/sht31.git
+    V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
+    V0.0 https://github.com/JHSRobo/tcu_touchscreen.git
+    V0.0 https://github.com/JHSRobo/vector_drive.git
+    
+### Genesis~2.3
+
+    Important Camera and Permisions Bug Fix.
+
+To get from command line:
+
+    Manual Versioning Required.
     
 Manual Versioning:
 
