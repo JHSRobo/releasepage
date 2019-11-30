@@ -1,0 +1,8 @@
+prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/install
+
+Name: rov_control_interface
+Description: Description of rov_control_interface
+Version: 0.0.1
+Cflags: -I/home/jhsrobo/Github/ROVMIND/ros_workspace/install/include
+Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/install/lib 
+Requires: message_runtime
