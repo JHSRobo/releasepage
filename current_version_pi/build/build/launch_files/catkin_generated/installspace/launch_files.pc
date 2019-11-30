@@ -1,0 +1,8 @@
+prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/install
+
+Name: launch_files
+Description: Description of launch_files
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/install/lib 
+Requires: 

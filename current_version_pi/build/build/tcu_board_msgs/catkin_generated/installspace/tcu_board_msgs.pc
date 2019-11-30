@@ -1,0 +1,8 @@
+prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/install
+
+Name: tcu_board_msgs
+Description: Description of tcu_board_msgs
+Version: 0.0.0
+Cflags: -I/home/jhsrobo/Github/ROVMIND/ros_workspace/install/include
+Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/install/lib 
+Requires: 
