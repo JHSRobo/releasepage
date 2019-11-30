@@ -141,11 +141,11 @@ Manual Versioning:
 
 All backup images are on the NAS or on the ssd that I have.
 
- ### AutoIMG1.5
+### AutoIMG1.5
 
     Newset Image. Updated permisisons.
     
- ### AutoIMG1.4
+### AutoIMG1.4
 
     Loaded for Bottomside pi and has update scripts installed.
 
