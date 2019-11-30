@@ -1,8 +1,0 @@
-prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/devel
-
-Name: camera_streamer_start
-Description: Description of camera_streamer_start
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/devel/lib 
-Requires: 

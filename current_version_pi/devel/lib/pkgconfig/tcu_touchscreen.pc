@@ -1,8 +1,0 @@
-prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/devel
-
-Name: tcu_touchscreen
-Description: Description of tcu_touchscreen
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/devel/lib 
-Requires: 
