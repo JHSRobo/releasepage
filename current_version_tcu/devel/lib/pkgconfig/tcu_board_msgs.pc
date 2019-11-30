@@ -1,0 +1,8 @@
+prefix=/home/tcu/Github/ROVMIND/ros_workspace/devel
+
+Name: tcu_board_msgs
+Description: Description of tcu_board_msgs
+Version: 0.0.0
+Cflags: -I/home/tcu/Github/ROVMIND/ros_workspace/devel/include
+Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/devel/lib 
+Requires: 

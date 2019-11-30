@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tcu/Github/ROVMIND/ros_workspace/devel/setup.sh

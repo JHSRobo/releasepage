@@ -1,0 +1,2 @@
+bmp280:bno055:camera_streamer_start:camera_viewer:copilot_interface:depth_hold:hardware_interface:launch_files:ms5837:rov_control:rov_control_interface:sht31:tcu_board_msgs:tcu_touchscreen:vector_drive
+-DCATKIN_DEVEL_PREFIX=/home/tcu/Github/ROVMIND/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/tcu/Github/ROVMIND/ros_workspace/install -G Unix Makefiles

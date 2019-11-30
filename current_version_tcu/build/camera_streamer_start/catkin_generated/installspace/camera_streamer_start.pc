@@ -1,0 +1,8 @@
+prefix=/home/tcu/Github/ROVMIND/ros_workspace/install
+
+Name: camera_streamer_start
+Description: Description of camera_streamer_start
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/install/lib 
+Requires: 

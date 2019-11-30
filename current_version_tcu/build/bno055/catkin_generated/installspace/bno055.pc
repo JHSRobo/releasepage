@@ -1,0 +1,8 @@
+prefix=/home/tcu/Github/ROVMIND/ros_workspace/install
+
+Name: bno055
+Description: Description of bno055
+Version: 0.0.0
+Cflags: -I/home/tcu/Github/ROVMIND/ros_workspace/install/include
+Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/install/lib 
+Requires: 

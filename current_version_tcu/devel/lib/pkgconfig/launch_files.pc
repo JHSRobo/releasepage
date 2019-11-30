@@ -1,0 +1,8 @@
+prefix=/home/tcu/Github/ROVMIND/ros_workspace/devel
+
+Name: launch_files
+Description: Description of launch_files
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/devel/lib 
+Requires: 
