@@ -15,16 +15,16 @@ To get from command line:
     
 Manual Versioning (TCU):
 
-    V0.5 https://github.com/JHSRobo/ROVMIND.git
-    V0.0 https://github.com/JHSRobo/depth_hold.git
-    V0.3 https://github.com/JHSRobo/RPICamera.git
+    V0.6 https://github.com/JHSRobo/ROVMIND.git
+    V0.1 https://github.com/JHSRobo/depth_hold.git
+    V0.4 https://github.com/JHSRobo/RPICamera.git
     V0.1 https://github.com/JHSRobo/bmp280.git
     V0.2 https://github.com/JHSRobo/bno055.git
     V1.0 https://github.com/JHSRobo/copilot_page.git
     V0.0 https://github.com/JHSRobo/copilot_interface.git
     V0.0 https://github.com/JHSRobo/doc.git
     V0.1 https://github.com/JHSRobo/hardware_interface.git
-    V0.1 https://github.com/JHSRobo/ms5837.git
+    V0.2 https://github.com/JHSRobo/ms5837.git
     V0.0 https://github.com/JHSRobo/rov_control.git
     V0.1 https://github.com/JHSRobo/rov_control_interface.git
     V0.1 https://github.com/JHSRobo/sht31.git
