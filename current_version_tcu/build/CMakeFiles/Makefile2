@@ -405,52 +405,52 @@ clean: gtest/googlemock/gtest/CMakeFiles/gtest.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory camera_streamer_start
+# Directory level rules for directory camera_streamer
 
 # Convenience name for "all" pass in the directory.
-camera_streamer_start/all:
+camera_streamer/all:
 
-.PHONY : camera_streamer_start/all
+.PHONY : camera_streamer/all
 
 # Convenience name for "clean" pass in the directory.
-camera_streamer_start/clean: camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/clean
+camera_streamer/clean: camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
-.PHONY : camera_streamer_start/clean
+.PHONY : camera_streamer/clean
 
 # Convenience name for "preinstall" pass in the directory.
-camera_streamer_start/preinstall:
+camera_streamer/preinstall:
 
-.PHONY : camera_streamer_start/preinstall
+.PHONY : camera_streamer/preinstall
 
 #=============================================================================
-# Target rules for target camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir
+# Target rules for target camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir
 
 # All Build rule for target.
-camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/all:
-	$(MAKE) -f camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/depend
-	$(MAKE) -f camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/build
+camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/all:
+	$(MAKE) -f camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/depend
+	$(MAKE) -f camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/tcu/Github/ROVMIND/ros_workspace/build/CMakeFiles --progress-num= "Built target _catkin_empty_exported_target"
-.PHONY : camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/all
+.PHONY : camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/all
 
 # Build rule for subdir invocation for target.
-camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule: cmake_check_build_system
+camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/tcu/Github/ROVMIND/ros_workspace/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/tcu/Github/ROVMIND/ros_workspace/build/CMakeFiles 0
-.PHONY : camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule
+.PHONY : camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule
 
 # Convenience name for target.
-_catkin_empty_exported_target: camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule
+_catkin_empty_exported_target: camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule
 
 .PHONY : _catkin_empty_exported_target
 
 # clean rule for target.
-camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/clean:
-	$(MAKE) -f camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/clean
-.PHONY : camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/clean
+camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/clean:
+	$(MAKE) -f camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/clean
+.PHONY : camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 # clean rule for target.
-clean: camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/clean
+clean: camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 .PHONY : clean
 

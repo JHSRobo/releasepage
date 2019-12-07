@@ -1,7 +1,7 @@
 prefix=/home/tcu/Github/ROVMIND/ros_workspace/devel
 
-Name: camera_streamer_start
-Description: Description of camera_streamer_start
+Name: camera_streamer
+Description: Description of camera_streamer
 Version: 0.0.0
 Cflags: 
 Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/devel/lib 

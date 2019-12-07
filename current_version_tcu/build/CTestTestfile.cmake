@@ -5,7 +5,7 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
-subdirs("camera_streamer_start")
+subdirs("camera_streamer")
 subdirs("launch_files")
 subdirs("tcu_board_msgs")
 subdirs("tcu_touchscreen")

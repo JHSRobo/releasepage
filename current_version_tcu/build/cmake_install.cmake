@@ -131,7 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/tcu/Github/ROVMIND/ros_workspace/build/gtest/cmake_install.cmake")
-  include("/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer_start/cmake_install.cmake")
+  include("/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer/cmake_install.cmake")
   include("/home/tcu/Github/ROVMIND/ros_workspace/build/launch_files/cmake_install.cmake")
   include("/home/tcu/Github/ROVMIND/ros_workspace/build/tcu_board_msgs/cmake_install.cmake")
   include("/home/tcu/Github/ROVMIND/ros_workspace/build/tcu_touchscreen/cmake_install.cmake")
