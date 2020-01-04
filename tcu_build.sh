@@ -22,7 +22,6 @@ git clone --branch V0.1 https://github.com/JHSRobo/hardware_interface.git
 git clone --branch V0.1 https://github.com/JHSRobo/ms5837.git
 git clone --branch V0.0 https://github.com/JHSRobo/rov_control.git
 git clone --branch V0.1 https://github.com/JHSRobo/rov_control_interface.git
-# git clone --branch V0.1 https://github.com/JHSRobo/rov_description.git
 # git clone --branch V0.1 https://github.com/JHSRobo/sensor_readout.git
 git clone --branch V0.1 https://github.com/JHSRobo/sht31.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
