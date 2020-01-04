@@ -29,6 +29,8 @@ git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_touchscreen.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
 git clone --branch 2.2.9 https://github.com/IntelRealSense/realsense-ros.git
+git clone https://github.com/JHSRobo/rov_localization.git
+git clone https://github.com/JHSRobo/rov_description.git
 
 cd ~/Github/ROVMIND/ros_workspace
 
