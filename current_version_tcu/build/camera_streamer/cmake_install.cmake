@@ -1,4 +1,4 @@
-# Install script for directory: /home/tcu/Github/ROVMIND/ros_workspace/src/camera_streamer_start
+# Install script for directory: /home/tcu/Github/ROVMIND/ros_workspace/src/camera_streamer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer_start/catkin_generated/installspace/camera_streamer_start.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer/catkin_generated/installspace/camera_streamer.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/camera_streamer_start/cmake" TYPE FILE FILES
-    "/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer_start/catkin_generated/installspace/camera_streamer_startConfig.cmake"
-    "/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer_start/catkin_generated/installspace/camera_streamer_startConfig-version.cmake"
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/camera_streamer/cmake" TYPE FILE FILES
+    "/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer/catkin_generated/installspace/camera_streamerConfig.cmake"
+    "/home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer/catkin_generated/installspace/camera_streamerConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/camera_streamer_start" TYPE FILE FILES "/home/tcu/Github/ROVMIND/ros_workspace/src/camera_streamer_start/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/camera_streamer" TYPE FILE FILES "/home/tcu/Github/ROVMIND/ros_workspace/src/camera_streamer/package.xml")
 endif()
 

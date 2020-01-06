@@ -137,14 +137,14 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tcu/Github/ROVMIND/ros_workspace/build/CMakeFiles /home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer_start/CMakeFiles/progress.marks
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer_start/all
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tcu/Github/ROVMIND/ros_workspace/build/CMakeFiles /home/tcu/Github/ROVMIND/ros_workspace/build/camera_streamer/CMakeFiles/progress.marks
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/tcu/Github/ROVMIND/ros_workspace/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer_start/clean
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer/clean
 .PHONY : clean
 
 # The main clean target
@@ -154,12 +154,12 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer_start/preinstall
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer_start/preinstall
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
@@ -168,18 +168,18 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule:
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule
-.PHONY : camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule
+camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule:
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f CMakeFiles/Makefile2 camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule
+.PHONY : camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule
 
 # Convenience name for target.
-_catkin_empty_exported_target: camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/rule
+_catkin_empty_exported_target: camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/rule
 
 .PHONY : _catkin_empty_exported_target
 
 # fast build rule for target.
 _catkin_empty_exported_target/fast:
-	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer_start/CMakeFiles/_catkin_empty_exported_target.dir/build
+	cd /home/tcu/Github/ROVMIND/ros_workspace/build && $(MAKE) -f camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/build.make camera_streamer/CMakeFiles/_catkin_empty_exported_target.dir/build
 .PHONY : _catkin_empty_exported_target/fast
 
 # Help Target
