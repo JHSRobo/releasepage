@@ -6,7 +6,7 @@ rm -rf ./ROVMIND
 rm -rf ./RPICamera
 
 git clone --branch V0.6 https://github.com/JHSRobo/ROVMIND.git
-git clone --branch V0.3 https://github.com/JHSRobo/RPICamera.git
+git clone --branch V0.5 https://github.com/JHSRobo/RPICamera.git
 
 mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
 
@@ -29,7 +29,7 @@ git clone --branch V0.1 https://github.com/JHSRobo/sht31.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_touchscreen.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
-git clone --branch 2.2.9 https://github.com/IntelRealSense/realsense-ros.git
+# git clone --branch 2.2.9 https://github.com/IntelRealSense/realsense-ros.git
 git clone https://github.com/JHSRobo/rov_localization.git
 git clone https://github.com/JHSRobo/rov_description.git
 
