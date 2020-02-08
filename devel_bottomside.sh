@@ -25,7 +25,7 @@ git clone https://github.com/JHSRobo/sht31.git
 git clone https://github.com/JHSRobo/tcu_board_msgs.git
 git clone https://github.com/JHSRobo/tcu_touchscreen.git
 git clone https://github.com/JHSRobo/vector_drive.git
-# git clone https://github.com/IntelRealSense/realsense-ros.git
+git clone https://github.com/IntelRealSense/realsense-ros.git
 git clone https://github.com/JHSRobo/rov_localization.git
 git clone https://github.com/JHSRobo/motion_pids.git
 
