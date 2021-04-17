@@ -15,7 +15,7 @@ git clone --branch V0.1 https://github.com/JHSRobo/bmp280.git
 # git clone --branch V0.1 https://github.com/JHSRobo/depth_hold.git
 git clone --branch V0.2 https://github.com/JHSRobo/bno055.git
 # git clone --branch V1.0 https://github.com/JHSRobo/copilot_page.git
-# git clone --branch V0.0 https://github.com/JHSRobo/copilot_interface.git
+git clone --branch V0.0 https://github.com/JHSRobo/copilot_interface.git
 # git clone --branch V0.0 https://github.com/JHSRobo/doc.git
 git clone --branch V0.1 https://github.com/JHSRobo/hardware_interface.git
 # git clone --branch V0.0 https://github.com/JHSRobo/keyboard-teleop.git
