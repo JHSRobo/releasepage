@@ -1,8 +1,0 @@
-prefix=/home/tcu/Github/ROVMIND/ros_workspace/install
-
-Name: depth_hold
-Description: Description of depth_hold
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/install/lib 
-Requires: 

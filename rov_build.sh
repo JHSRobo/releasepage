@@ -1,12 +1,16 @@
 #!/bin/bash
 
-cd $CI_SOURCE_PATH/tmp
+cd ~/Github
 
+rm -rf ./ROVMIND
+rm -rf ./RPICamera
+
+git clone --branch V2.5.1 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V0.5 https://github.com/JHSRobo/RPICamera.git
 
-mv $CI_SOURCE_PATH/tmp/RPICamera/camera_viewer/ $CI_SOURCE_PATH/ros_workspace/src/
+mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
 
-cd $CI_SOURCE_PATH/ros_workspace/src/
+cd ~/Github/ROVMIND/ros_workspace/src/
 git clone --branch V0.1 https://github.com/JHSRobo/bmp280.git
 git clone --branch V0.2 https://github.com/JHSRobo/bno055.git
 git clone --branch V0.0 https://github.com/JHSRobo/copilot_interface.git
@@ -32,6 +36,8 @@ git clone --branch V1.0 https://github.com/JHSRobo/electromag.git
 # git clone --branch V0.1 https://github.com/JHSRobo/depth_hold.git
 
 
-cd $CI_SOURCE_PATH/ros_workspace
+cd ~/Github/ROVMIND/ros_workspace
 
 rosdep install --from-paths src --ignore-src -r -y
+
+catkin_make

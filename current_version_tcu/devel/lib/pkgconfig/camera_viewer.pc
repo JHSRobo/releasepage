@@ -1,8 +1,0 @@
-prefix=/home/tcu/Github/ROVMIND/ros_workspace/devel
-
-Name: camera_viewer
-Description: Description of camera_viewer
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/devel/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/tcu/Github/ROVMIND/ros_workspace/devel
-
-Name: rov_control_interface
-Description: Description of rov_control_interface
-Version: 0.0.1
-Cflags: -I/home/tcu/Github/ROVMIND/ros_workspace/devel/include
-Libs: -L/home/tcu/Github/ROVMIND/ros_workspace/devel/lib 
-Requires: message_runtime

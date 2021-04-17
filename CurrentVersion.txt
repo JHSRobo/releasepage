@@ -1,2 +1,0 @@
-ROVMIND (https://github.com/JHSRobo/ROVMIND.git) V0.1
-Copilot-Page (https://github.com/JHSRobo/copilot-page.git) V1.3.0

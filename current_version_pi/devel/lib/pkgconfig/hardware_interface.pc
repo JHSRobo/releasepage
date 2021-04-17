@@ -1,8 +1,0 @@
-prefix=/home/jhsrobo/Github/ROVMIND/ros_workspace/devel
-
-Name: hardware_interface
-Description: Description of hardware_interface
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jhsrobo/Github/ROVMIND/ros_workspace/devel/lib 
-Requires: 
