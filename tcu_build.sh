@@ -5,7 +5,7 @@ cd ~/Github
 rm -rf ./ROVMIND
 rm -rf ./RPICamera
 
-git clone --branch V2.5.2 https://github.com/JHSRobo/ROVMIND.git
+git clone --branch V2.5.3 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V0.5 https://github.com/JHSRobo/RPICamera.git
 
 mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
