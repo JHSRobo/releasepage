@@ -9,6 +9,7 @@ git clone --branch V2.5.3 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V1.1 https://github.com/JHSRobo/RPICamera.git
 
 mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
+rm -rf ~/Github/RPICamera
 
 cd ~/Github/ROVMIND/ros_workspace/src/
 git clone --branch V0.1 https://github.com/JHSRobo/bmp280.git
