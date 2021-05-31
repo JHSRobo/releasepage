@@ -17,7 +17,7 @@ git clone --branch V0.2 https://github.com/JHSRobo/bno055.git
 git clone --branch V0.0 https://github.com/JHSRobo/copilot_interface.git
 git clone --branch V1.0 https://github.com/JHSRobo/hardware_interface.git
 git clone --branch V2.5 https://github.com/JHSRobo/keyboard-teleop.git
-git clone --branch V0.2 https://github.com/JHSRobo/depth_sensor.git
+git clone --branch V0.3 https://github.com/JHSRobo/depth_sensor.git
 git clone --branch V0.1 https://github.com/JHSRobo/rov_control_interface.git
 git clone --branch V0.1 https://github.com/JHSRobo/sht31.git
   git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
