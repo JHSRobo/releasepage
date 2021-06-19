@@ -21,7 +21,7 @@ git clone --branch V0.2 https://github.com/JHSRobo/rov_control_interface.git
 #git clone --branch V0.1 https://github.com/JHSRobo/sht31.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
-git clone --branch V1.4 https://github.com/JHSRobo/gpio_control.git
+git clone --branch V1.4.1 https://github.com/JHSRobo/gpio_control.git
 git clone --branch V1.0.2 https://github.com/JHSRobo/micro_rov.git
 
 cd ~/Github/ROVMIND/ros_workspace
