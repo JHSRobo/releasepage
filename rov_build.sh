@@ -23,6 +23,7 @@ git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
 git clone --branch V1.4.1 https://github.com/JHSRobo/gpio_control.git
 git clone --branch V1.0.2 https://github.com/JHSRobo/micro_rov.git
+git clone --branch V1.0 https://github.com/JHSRobo/drq_ros.git
 
 cd ~/Github/ROVMIND/ros_workspace
 
