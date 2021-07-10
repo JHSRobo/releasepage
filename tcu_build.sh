@@ -2,6 +2,8 @@
 
 cd ~/Github
 
+echo "alias cameras=\"rosrun camera_viewer switcher.py\"" >> ~/.bashrc # Add camera command
+
 rm -rf ./ROVMIND
 rm -rf ./RPICamera
 
