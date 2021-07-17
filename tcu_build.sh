@@ -8,7 +8,7 @@ rm -rf ./ROVMIND
 rm -rf ./RPICamera
 
 git clone --branch V2.10.1 https://github.com/JHSRobo/ROVMIND.git
-git clone --branch V2.6 https://github.com/JHSRobo/RPICamera.git
+git clone --branch V3.0 https://github.com/JHSRobo/RPICamera.git
 
 mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
 rm -rf ~/Github/RPICamera
