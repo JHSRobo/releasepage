@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Running this file installs ros and everything you need to get started on a system that has not yet installed ros-melodic. 
+# Made by Adon Sharp
+
 # Checks sudo perms needed for installing libraries, editing files and changing passwords
 if [[ "$(id -u)" != 0 ]]
   then echo "Please run as root"
