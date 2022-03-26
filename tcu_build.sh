@@ -21,7 +21,7 @@ git clone --branch V3.4 https://github.com/JHSRobo/keyboard_teleop.git
 git clone --branch V1.0 https://github.com/JHSRobo/rov_control_interface.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
-git clone --branch V1.2 https://github.com/JHSRobo/depth_hold.git
+git clone --branch V1.3 https://github.com/JHSRobo/depth_hold.git
 
 
 cd ~/Github/ROVMIND/ros_workspace
