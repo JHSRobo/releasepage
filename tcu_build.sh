@@ -7,8 +7,8 @@ cat ~/.bashrc | grep "cameras" || (echo "alias cameras=\"rosrun camera_viewer sw
 rm -rf ./ROVMIND
 rm -rf ./RPICamera
 
-git clone --branch V2.10.3.2 https://github.com/JHSRobo/ROVMIND.git
-git clone --branch V3.6.1 https://github.com/JHSRobo/RPICamera.git
+git clone --branch V2.11 https://github.com/JHSRobo/ROVMIND.git
+git clone --branch V3.7 https://github.com/JHSRobo/RPICamera.git
 
 mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
 rm -rf ~/Github/RPICamera
@@ -21,7 +21,7 @@ git clone --branch V3.4 https://github.com/JHSRobo/keyboard_teleop.git
 git clone --branch V1.0 https://github.com/JHSRobo/rov_control_interface.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
-# git clone --branch V0.0 https://github.com/JHSRobo/depth_hold.git
+git clone --branch V1.1 https://github.com/JHSRobo/depth_hold.git
 
 
 cd ~/Github/ROVMIND/ros_workspace
