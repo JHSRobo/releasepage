@@ -7,7 +7,7 @@ cat ~/.bashrc | grep "cameras" || (echo "alias cameras=\"rosrun camera_viewer sw
 rm -rf ./ROVMIND
 rm -rf ./RPICamera
 
-git clone --branch V2.12 https://github.com/JHSRobo/ROVMIND.git
+git clone --branch V2.13 https://github.com/JHSRobo/ROVMIND.git
 git clone --branch V3.9 https://github.com/JHSRobo/RPICamera.git
 
 mv ~/Github/RPICamera/camera_viewer/ ~/Github/ROVMIND/ros_workspace/src/
