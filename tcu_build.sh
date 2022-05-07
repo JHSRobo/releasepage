@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Checks sudo perms
+if [[ "$(id -u)" == 0 ]]
+  then echo "Please don't run as root"
+  exit
+fi
+
 cd ~/Github
 
 cat ~/.bashrc | grep "cameras" || (echo "alias cameras=\"rosrun camera_viewer switcher.py\"" >> ~/.bashrc) # Add camera command
