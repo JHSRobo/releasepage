@@ -26,6 +26,7 @@ git clone --branch V1.20.4 https://github.com/JHSRobo/copilot_interface.git
 git clone --branch V1.1 https://github.com/JHSRobo/hardware_interface.git
 git clone --branch V3.7 https://github.com/JHSRobo/keyboard_teleop.git
 git clone --branch V1.5.1 https://github.com/JHSRobo/rov_control_interface.git
+git clone --branch V0.0 https://github.com/JHSRobo/vector_drive.git
 git clone --branch V0.0 https://github.com/JHSRobo/tcu_board_msgs.git
 #git clone --branch V1.3 https://github.com/JHSRobo/depth_hold.git
 
