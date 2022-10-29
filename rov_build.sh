@@ -12,7 +12,7 @@ mv ~/Github/RPICamera/streamer/ ~/Github/
 rm -rf ~/Github/RPICamera
 
 cd ~/Github/ROVMIND/ros_workspace/src/
-git clone --branch V1.20.4 https://github.com/JHSRobo/copilot_interface.git
+git clone --branch V1.20.5 https://github.com/JHSRobo/copilot_interface.git
 git clone --branch V1.1 https://github.com/JHSRobo/hardware_interface.git
 git clone --branch V0.6 https://github.com/JHSRobo/depth_sensor.git
 git clone --branch V1.5.1 https://github.com/JHSRobo/rov_control_interface.git
