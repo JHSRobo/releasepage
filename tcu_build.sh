@@ -9,7 +9,7 @@ fi
 cd ~/Github
 
 cat ~/.bashrc | grep "cameras" || (echo "alias cameras=\"rosrun camera_viewer switcher.py\"" >> ~/.bashrc) # Add camera command
-#cat ~/.bashrc | grep "topside" || (echo "alias topside=\"roslaunch launch_files topside.launch"" >> ~/.bashrc) # Add camera command
+cat ~/.bashrc | grep "topside" || (echo "alias topside=\"roslaunch launch_files topside.launch"" >> ~/.bashrc) # Add camera command
 
 rm -rf ./ROVMIND
 rm -rf ./RPICamera
