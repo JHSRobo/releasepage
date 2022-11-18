@@ -12,7 +12,6 @@ apt install git
 apt install curl
 apt install python3-pip
 apt install net-tools
-python3 -m pip install pyxhook
 python3 -m pip install smbus
 mkdir ~/Github
 
@@ -34,9 +33,9 @@ apt install ros-noetic-desktop
 source /opt/ros/noetic/setup.bash
 apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
 rosdep init
-rosdep update
+sudo -u jhsrobo rosdep update
 
 #Clone our software from Github
-bash tcu_repo_clone.sh
+sudo -u jhsrobo bash tcu_repo_clone.sh
 
 source ~/.bashrc
