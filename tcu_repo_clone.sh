@@ -9,7 +9,6 @@ fi
 cd ~/Github
 
 rm -rf ./ROVMIND
-
 git clone --branch V2.13 https://github.com/JHSRobo/ROVMIND.git
 
 cd ~/Github/ROVMIND/ros_workspace/src/
